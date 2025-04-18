@@ -1,0 +1,6 @@
+version = 0.1
+[default.build.parameters]
+template_file = "/Users/tariqadams/basic website for math/Math adventures/template.yaml"
+cached = true
+parallel = true
+use_container = true
