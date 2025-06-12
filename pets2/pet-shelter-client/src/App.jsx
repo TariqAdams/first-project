@@ -8,7 +8,7 @@ import Home from "./components/Home";
 import AboutUs from "./components/AboutUs";
 import Pets from "./components/Pets";
 //import AdoptionForm from "./components/AdoptionForm";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer";s
 //import Applications from "./components/Applications";
 //import ApplicationDetail from "./components/ApplicationDetail";
 import axios from "axios"
